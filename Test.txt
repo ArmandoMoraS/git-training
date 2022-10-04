@@ -1,4 +1,7 @@
 This is a testing file
 For git purposes
 Commit new changes
-Adding 2 extra lines 
+-Adding 2 extra lines 
+
+Testing gui
+extra lines
