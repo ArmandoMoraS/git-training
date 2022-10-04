@@ -5,3 +5,6 @@ Commit new changes
 
 Testing gui
 extra lines
+
+Sending remote repo
+
